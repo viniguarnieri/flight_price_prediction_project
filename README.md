@@ -51,11 +51,13 @@
   
   Step 03. Exploratory Data Analisys: Explore the data to find insights and better undestand the impact of variables on model training.
   
-  Step 04. Data Preparation: Prepare the data so that the Machine Learning models can learn the specific behavior.
+  Step 04. Answer the questions: Plot graphs to understand the data and then solve the questions.
   
-  Step 05. Feature Selection: Selection of the most significant attributes for training the model.
+  Step 05. Data Preparation: Prepare the data so that the Machine Learning models can learn the specific behavior.
   
-  Step 06. Machine Learning Modeling: Machine Learning model training.
+  Step 06. Feature Selection: Selection of the most significant attributes for training the model.
+  
+  Step 07. Machine Learning Modeling: Machine Learning model training.
   
 # 3. Machine Learning Model Applied
 - Tests were made using different algorithms:
