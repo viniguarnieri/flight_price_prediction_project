@@ -17,7 +17,7 @@
     d) How the price changes with change in Source and Destination?
     e) How does the ticket price vary between Economy and Business class?
     
- # FEATURES
+ ## FEATURES
  - The various features of the cleaned dataset are explained below:
 
     - Airline: The name of the airline company is stored in the airline column. It is a categorical feature having 6 different airlines.
@@ -64,7 +64,35 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/126209562/229897604-24261882-5050-4563-bdfe-cbc8cc74a364.png" width="600px" />
 </div>
-**R:** Yes, it does. The AirAsia and Vistaria airlines have the highest price while the others have a very similiar average price. 
+Yes, it does. The AirAsia and Vistaria airlines have the highest price while the others have a very similiar average price. 
+
+##
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126209562/229899844-f6895162-030b-4603-8c3a-a2fe78c89fd8.png" width="600px" />
+</div>
+The price increases more when the ticket is purchased 2 days before departure than when purchased 1 day before.
+
+##
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126209562/229900566-b284e1a3-4162-45d1-b2ef-0c24bde2f02b.png" />
+</div>
+Yes, it does. Looking at the graphs it is possible to verify that the both price is much lower when it is "Late_Night" compared to others times of the day. So the best option is late at night for both arrival and departure, and the worst option is morning, evening and night.
+
+##
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126209562/229902995-68981a61-98b1-4a2d-a5c1-8282015f4991.png" width="600px" />
+</div>
+The price practically does not change for all airlines.  
+
+##
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126209562/229903809-1ebfd603-3597-41c0-ae6e-427796b87404.png" width="600px" />
+</div>
+The average price in Business class is higher than Economy class, but there is more ticket purchased in Economy so the price seems higher but it is not.
 
 # 4. Machine Learning Model Applied
 - Tests were made using different algorithms:
