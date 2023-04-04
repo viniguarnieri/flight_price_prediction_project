@@ -58,14 +58,21 @@
   Step 06. Feature Selection: Selection of the most significant attributes for training the model.
   
   Step 07. Machine Learning Modeling: Machine Learning model training.
-  
-# 3. Machine Learning Model Applied
+
+# 3. Answering the questions
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/126209562/229897604-24261882-5050-4563-bdfe-cbc8cc74a364.png" width="600px" />
+</div>
+**R:** Yes, it does. The AirAsia and Vistaria airlines have the highest price while the others have a very similiar average price. 
+
+# 4. Machine Learning Model Applied
 - Tests were made using different algorithms:
     - Linear Regression
     - Decision Tree
     - Random Forest
   
-# 4. Machine Learning Modelo Performance
+# 5. Machine Learning Model Performance
   The chosen algorithm was Random Forest Regression.
   
 | Mean Squared Error  | Root Mean Square Error | R-squared  | 
