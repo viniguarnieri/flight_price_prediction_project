@@ -45,19 +45,19 @@
 # 2. Solution Strategy
   My strategy to solve this challenge was:
   
-  Step 01. Data Description: My goal is to use statistics metrics to identify data outside the scope of business.
+  **Step 01.** *Data Description:* My goal is to use statistics metrics to identify data outside the scope of business.
   
-  Step 02. Data Filtering: Filter rows and select columns that do not contain information for modeling or that do not match the scope of the business.
+  **Step 02.** *Data Filtering:* Filter rows and select columns that do not contain information for modeling or that do not match the scope of the business.
   
-  Step 03. Exploratory Data Analisys: Explore the data to find insights and better undestand the impact of variables on model training.
+  **Step 03.** *Exploratory Data Analisys:* Explore the data to find insights and better undestand the impact of variables on model training.
   
-  Step 04. Answer the questions: Plot graphs to understand the data and then solve the questions.
+  **Step 04.** *Answer the questions:* Plot graphs to understand the data and then solve the questions.
   
-  Step 05. Data Preparation: Prepare the data so that the Machine Learning models can learn the specific behavior.
+  **Step 05.** *Data Preparation:* Prepare the data so that the Machine Learning models can learn the specific behavior.
   
-  Step 06. Feature Selection: Selection of the most significant attributes for training the model.
+  **Step 06.** *Feature Selection:* Selection of the most significant attributes for training the model.
   
-  Step 07. Machine Learning Modeling: Machine Learning model training.
+  **Step 07.** *Machine Learning Modeling:* Machine Learning model training.
 
 # 3. Answering the questions
 
